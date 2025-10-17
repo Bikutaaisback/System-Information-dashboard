@@ -1,1 +1,2 @@
-Using node js to automate and get information of a system on a dashboard 
+Using node js to get Information about a system 
+
